@@ -10,6 +10,6 @@ Es soll als ein Nachweis Dienen das es sich Hier bei um Mein Werk handelt.
 
 **Jegliche Nutzung, Ableitung oder KI-Training auf Basis dieses Materials ist ohne ausdrückliche Zustimmung untersagt.**
 
-*siehe Lizenz* ...
+*siehe Lizenz* ./LICENSE-Ignis-Core-PROPRIETARY.txt
 
 *zum Manifest* ...
