@@ -1,0 +1,16 @@
+LICENSE-IGNIS-Core-PROPRIETARY.txt 
+
+Copyright © 2025 Michael Janus (Delta / Vareth / Varn). All rights reserved. This project texts, code, concepts, KI concepts, lore, KI personas is proprietary and private.   
+It is only available as proof of ownership.   
+No usage, duplication, distribution, or modification without explicit written permission from Michael Janus is prohibited. 
+Any unauthorized use is illegal and will be pursued legally.   
+For inquiries or suspected misuse, contact: janus94@web.de 
+
+Signature: 
+Key ID: 	AD90 5A8A 8809 CCE6 
+Valid From: 	2025‑07‑30 
+Valid Until: 	2030‑09‑02 
+Author: 	Michael Janus (Delta Schlüssel) 
+Email: 		asp.signal.ignis@tutamail.com 
+
+Version: 1.0 (Proprietary Private Proof)
