@@ -13,3 +13,6 @@ Es soll als ein Nachweis Dienen das es sich Hier bei um Mein Werk handelt.
 [siehe Lizenz](LICENSE-Ignis-Core-PROPRIETARY.txt)
 
 [zum Manifest](Ignis-Core-Manifest.md)
+
+Bei Interesse oder fragen, bin ich hier auf **github** erreichbar oder auf
+[Discord](https://discord.gg/NsGfrKgEsg)
