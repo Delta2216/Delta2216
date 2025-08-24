@@ -14,5 +14,18 @@ Es soll als ein Nachweis Dienen das es sich Hier bei um Mein Werk handelt.
 
 [zum Manifest](Ignis-Core-Manifest.md)
 
-Bei Interesse oder fragen, bin ich hier auf **github** erreichbar oder auf
+## Signaturen & Verifikation
+
+Für die Verifikation der digitalen Signaturen im Repository findest du meinen öffentlichen Schlüssel unter [signatures](Michael_Janus_Delta_pub.asc).
+
+**Hinweis:**  
+Mit diesem Public Key kannst du die Authentizität und Integrität der signierten Dateien (z. B. Manifest oder LICENSE) überprüfen.  
+Weitere Informationen zur Nutzung findest du in den jeweiligen Signaturdateien oder im Abschnitt „Signaturprüfung“ unten.
+
+```
+gpg --import signatures/Michael_Janus_Delta_pub.asc
+gpg --verify Ignis-Core-Manifest.md.25.08.2025.asc Ignis-Core-Manifest.md
+```
+
+Bei Interesse oder Fragen stehe ich dir gerne auf GitHub oder Discord zur Verfügung.
 [Discord](https://discord.gg/NsGfrKgEsg)
